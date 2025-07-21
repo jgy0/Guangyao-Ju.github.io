@@ -1,3 +1,2 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 研究生新生入学奖学金, 2024.  
+- 校优秀学生综合三等奖学金 3 次，国家励志奖学金 2 次，三好学生 2 次
