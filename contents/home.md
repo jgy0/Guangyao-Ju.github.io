@@ -7,10 +7,9 @@ I am currently pursuing a master's degree in artificial intelligence at the Scho
 <code>guangyaoju@163.com</code>
 
 #### Education  
-**XX University**, Master of AI (2024 – NOW)  
-• GPA: XX/XX  
+**Dalian Maritime University**, Master of AI (2024 – NOW)  
 
-**Zhengzhou University of Light Industry** , Bachelor of AI
+**Zhengzhou University of Light Industry** , Bachelor of AI （2020-2024）
 
 #### Research Interests  
 Computer vision, Artificial intelligence, Deep learning, Machine learning.
