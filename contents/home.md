@@ -4,7 +4,7 @@ I am currently pursuing a master's degree in artificial intelligence at the Scho
 
 #### Email  
 <code>jgy@dlmu.edu.cn</code>  
-<code>guangyaoju@163.com.XX</code>
+<code>guangyaoju@163.com</code>
 
 #### Education  
 **XX University**, Master of AI (2024 – NOW)  
